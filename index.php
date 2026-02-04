@@ -1,6 +1,6 @@
 <?php
 // Configuración de la conexión (la editaremos más adelante para InfinityFree)
-$host = "EL_HOST_NAME_QUE_COPIASTE"; // Ej: sql304.infinityfree.com
+$host = "mipaginaweb.infinityfreeapp.com"; // Ej: sql304.infinityfree.com
 $user = "if0_41068605";             // Tu usuario de la imagen
 $pass = "TU_CONTRASEÑA_DE_CUENTA";  // La que usas para entrar a InfinityFree
 $db   = "if0_41068605_formulario";  // El nombre completo de la BD que creaste
@@ -40,3 +40,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </body>
 
 </html>
+
